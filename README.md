@@ -1,5 +1,5 @@
 ## Hello👋
-I am proficient in these things:
+My competencies:
 ![I know this](githibcompetencies.png)
 <!--
 **Lykkeskov/Lykkeskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
