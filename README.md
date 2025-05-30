@@ -1,5 +1,4 @@
 # What it do?
-Senior developer at Unemployment and Incompetence Inc.  
 ![monkey](monkey-banana.gif)
 
 # 💻 I dabble:
