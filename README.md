@@ -5,7 +5,7 @@
 
 <div>
   <svg class="img" width="200" height="200" >
-    <img src="monkey-banana.gif" style="width:200; height:200"/>
+    <img src="monkey-banana.gif" style="width:200; height:200; float: left; margin-right:1rem;"/>
   </svg>
   <p>
     🌱 I’m currently learning full-stack development
