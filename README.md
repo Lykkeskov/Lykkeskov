@@ -1,4 +1,19 @@
 # 🦧 What it do?
+<table>
+  <tr>
+    <td>
+      <img src="monkey-banana.gif" width="200" />
+    </td>
+    <td>
+      <ul>
+        <li>🔧 Jeg arbejder med webudvikling</li>
+        <li>💡 Interesseret i open source</li>
+        <li>📚 Elsker at lære nye teknologier</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ![monkey](monkey-banana.gif) 🌱 I’m currently learning full stack development
 
 <h3><img align="center" height="30" src="monkey-banana.gif" style="width: 250px; height: 250px;"> 🌱 I’m currently learning full stack development</h3>
