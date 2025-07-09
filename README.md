@@ -6,10 +6,10 @@
     </td>
     <td>
       <ul>
-        # <li>🔧 I’m currently learning full-stack development</li>
+        <!-- <li>🔧 I’m currently learning full-stack development</li>
         # <li>📚 I Enjoy learning about new technologies</li>
         # <li>💡  I'm very interested in AI</li>
-        # <li>💬 DM me on <a href="https://www.linkedin.com/in/lykkeskov/" target="_blank">Linkedin</a> to collaborate</li>
+        # <li>💬 DM me on <a href="https://www.linkedin.com/in/lykkeskov/" target="_blank">Linkedin</a> to collaborate</li> -->
       </ul>
     </td>
   </tr>
