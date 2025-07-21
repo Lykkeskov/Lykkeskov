@@ -1,4 +1,4 @@
-# 🦧 Fluent in multiple programming languages such as ctrl+c and ctrl+v
+# Fluent in multiple programming languages such as ctrl+c and ctrl+v
 <table>
   <tr>
     <td>
